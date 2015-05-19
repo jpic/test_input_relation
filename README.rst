@@ -1,5 +1,5 @@
 This repo demonstrates a bug with Django 1.8 admin's related-widget-wrapper
-CSS.
+CSS OR in firefox ?
 
 Runserver and open this url to see it:
 http://localhost:8000/admin/test_app/testmodel/add/
