@@ -1,8 +1,9 @@
 
-Runserver and go with chromium 
+Runserver and go with chromium **and reduce the window width** so that the
+input in the middle redisplays properly
 http://localhost:8000/admin/test_app/testmodel/add/
 
-To see
+To see this case
 
 .. image:: BUG.png
 
