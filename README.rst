@@ -11,8 +11,9 @@ To see this case
 I know it's really minor but I'd really like to understand why the text inputs
 redraw properly and why selects don't.
 
-Here's a (so far failed) attempt to isolate the issue
-http://jsfiddle.net/jpic/ste4ku85/
+Isolating the issue happens in updates of
+ http://jsfiddle.net/jpic/ste4ku85/5/
+ (thanks @emerson from #css for his expertise)
 
 Somehow related to
 https://code.djangoproject.com/ticket/24784
